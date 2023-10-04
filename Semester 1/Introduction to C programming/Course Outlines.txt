@@ -1,0 +1,49 @@
+Week	Date		Day		Module
+Week 1	
+September 30	Saturday, 10:00 pm	Setup
+October 01	Sunday, 10:00 pm	Basic Syntax, Variables & Data-Types
+October 02	Monday, 10:00 pm	Operators, Conditional Statements
+October 03	Tuesday, 10:00 pm	Loop
+October 04	Wednesday, 10:00 pm	Week 01 Practice Day 01
+October 05	Thursday, 10:00 pm	Assignment 01
+October 06	Friday, 10:00 pm	No module Day
+Week 2	
+October 07	Saturday, 10:00 pm	Conditional Statements Recap
+October 08	Sunday, 10:00 pm	Loop Recap and Nested Loop
+October 09	Monday, 10:00 pm	Week 02 Practice Day 01
+October 10	Tuesday, 10:00 pm	Array
+October 11	Wednesday, 10:00 pm	Week 02 Practice Day 02
+October 12	Thursday, 10:00 pm	Assignment 02
+October 13	Friday, 10:00 pm	No module day
+Week 3	
+October 14	Saturday, 10:00 pm	Array Operations
+October 15	Sunday, 10:00 pm	String
+October 16	Monday, 10:00 pm	Week 03 Practice Day 01
+October 17	Tuesday, 10:00 pm	String Operations and Frequency Array
+October 18	Wednesday, 10:00 pm	Week 03 Practice Day 02
+October 19	Thursday, 10:00 pm	Mid-Term Exam
+October 20	Friday, 10:00 pm	No module day
+Week 4	
+October 21	Saturday, 10:00 pm	Nested Loop Recap
+October 22	Sunday, 10:00 pm	Function and Pointer
+October 23	Monday, 10:00 pm	Week 04 Practice Day 01
+October 24	Tuesday, 10:00 pm	Function with Pointer
+October 25	Wednesday, 10:00 pm	Week 04 Practice Day 02
+October 26	Thursday, 10:00 pm	Assignment 03
+October 27	Friday, 10:00 pm	No Module day
+Week 5	
+October 28	Saturday, 10:00 pm	Recursion
+October 29	Sunday, 10:00 pm	2D Array
+October 30	Monday, 10:00 pm	Week 05 Practice Day 01
+October 31	Tuesday, 10:00 pm	2D Array & Recursion
+November 01	Wednesday, 10:00 pm	Week 05 Practice Day 02
+November 02	Thursday, 10:00 pm	Assignment 04
+November 03	Friday, 10:00 pm	No Module day
+Week 6	
+November 04	Saturday, 10:00 pm	Coming
+November 05	Sunday, 10:00 pm	Coming
+November 06	Monday, 10:00 pm	Week 06 Practice Day 01
+November 07	Tuesday, 10:00 pm	Coming
+November 08	Wednesday, 10:00 pm	Week 06 Practice Day 02
+November 09	Thursday, 10:00 pm	Final Exam
+November 10	Friday, 10:00 pm	No Module Day
