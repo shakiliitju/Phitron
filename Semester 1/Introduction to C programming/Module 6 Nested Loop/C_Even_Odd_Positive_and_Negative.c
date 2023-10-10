@@ -13,16 +13,16 @@ int main()
         {
             c1++;
         }
-     else
+        else
         {
             c2++;
         }
-        
+
         if (x > 0)
         {
             c3++;
         }
-        
+
         if (x < 0)
         {
             c4++;
