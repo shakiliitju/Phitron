@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(26, 26, 26) !important;
+    background-blend-mode: overlay;
+    color: white;
+    background-image: url('./images/galaxy.gif');
+}
+.item{
+    list-style: none;
+    padding-right: 2px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.donwload-icon{
+   color: white;
+}
+.item:hover{
+    color: rgb(45, 45, 178);
+    cursor: pointer;
+}
+.my-photo-box{
+    width: 400px;
+    height: 450px;
+}
+.name-title{
+    font-size: 50px;
+    font-weight: bolder;
+    color: cyan;
+}
+.social-icons{
+    padding: 5px;
+    font-size: 32px;
+    color: rgb(10, 10, 10);
+}
+.fa-brands{
+    color: cyan;
+}
+.title{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.project-1{
+    width: 75%;
+border: 1px solid gray;
+}
+.project-title{
+    color: cyan;
+    font-weight: bold;
+    text-align: justify;
+}
+.project-desc{
+    text-align: justify;
+}
+.list-group{
+    text-align: justify;
+}
+.tech-btn{
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    border: none;
+    outline: none;
+   
+}
+.edu-title{
+    font-size: 45px;
+    font-weight: bold;
+    color: cyan;
+    padding: 5px;
+}
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+  }
+  
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    margin-top: 6px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
