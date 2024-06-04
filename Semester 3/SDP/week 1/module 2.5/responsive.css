@@ -1,0 +1,159 @@
+/* media quary for small devices */
+@media only screen and (max-width: 767px) {
+  .nav {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .menu_container {
+    font-size: 14px;
+  }
+
+  .logo {
+    width: 30px;
+  }
+
+  .bannr_container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .banner_left {
+    order: 2;
+    margin-bottom: 10px;
+  }
+
+  .banner_right {
+    order: 1;
+  }
+
+  .banner_title {
+    font-size: 10px;
+  }
+
+  .banner_btn {
+    font-size: 8px;
+    padding: 5px 10px;
+  }
+
+  .banner_img {
+    width: 50%;
+  }
+
+  .banner_down_img {
+    padding: 10px 5px;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .services_all_area {
+    padding: 0 5px;
+  }
+
+  .logo {
+    width: 100%;
+  }
+
+  .banner_mob_img {
+    width: 30%;
+    height: 30%;
+    display: block;
+    margin: auto;
+    justify-content: center;
+  }
+
+  .service {
+    margin-bottom: 10px;
+  }
+
+  .box_shado {
+    width: 50%;
+  }
+
+  .img_contact_area {
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    padding: 10px 5px;
+  }
+
+  .left_area,
+  .right_area {
+    width: 50%;
+  }
+
+  .mob_res_img {
+    width: 200px;
+  }
+
+  .cont_mob{
+    font-size: 5px;
+  }
+
+  .footer_area span{
+    width: 100%;
+  }
+
+  .footer_area span li{
+    font-size: 20px;
+  }
+
+  .footer_area li small{
+    font-size: 20px;
+  }
+
+  .box_shaddo_center {
+    width: 100%;
+    height: 280%;
+  }
+
+  .footer_area {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 5px;
+  }
+
+  .footer__links {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .footer__socials {
+    margin-top: 10px;
+  }
+
+  .inpt {
+    width: 50%;
+  }
+
+  .text_col{
+    font-size: 30px;
+  }
+
+  .banner_btn{
+    padding: 15px 25px;
+  }
+
+  .banner_btn b{
+    font-size: 15px;
+  }
+
+  .banner_title{
+    font-size: 20px;
+  }
+
+  li{
+    list-style: none;
+  }
+
+  #bold {
+    font-size: 15px;
+  }
+}
+
+/* Media query for medium devices */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+}

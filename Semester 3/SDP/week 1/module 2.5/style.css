@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu_container {
+  font-size: 25px;
+  color: yellow;
+}
+
+.menu_container {
+  display: flex;
+  gap: 50px;
+}
+
+.bannr_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.banner_title {
+  font-size: 40px;
+}
+
+.banner_btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: rgb(255, 183, 0);
+  color: black;
+  border: none;
+}
+
+#back_img {
+  background-image: url("images/back2.jpg");
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner_down_img {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  background-color: rgb(230, 205, 205);
+  padding: 35px;
+  margin: 0px 30px 0px 30px;
+}
+
+.services_img {
+  display: block;
+  margin: auto;
+}
+
+.box_shado {
+  box-shadow: 4px 4px 8px gray;
+  width: 400px;
+  height: 400px;
+  display: inline;
+  justify-content: center;
+  border: 1px solid gray;
+}
+
+.box_shaddo_center {
+  display: flex;
+  justify-content: space-around;
+}
+
+.img_contact_area {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.foter_img {
+  width: 50px;
+  height: 50px;
+}
+
+.footer_area {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(44, 44, 44);
+  color: white;
+  padding: 50px;
+}
+
+.text_style {
+  color: rgb(206, 134, 102);
+  gap: 10px;
+}
+
+.p_gap {
+  line-height: 1.5rem;
+}
+
+.btn_contact {
+  background-color: cyan;
+  color: black;
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.list_none {
+  list-style: none;
+}
+
+.img_cont {
+  display: flex;
+  justify-content: center;
+}
+
+.i_and_p {
+  display: flex;
+}
+
+.inpt {
+  padding: 10px;
+  background-color: rgb(210, 194, 194);
+  border: none;
+}
+
+.text_col {
+  color: rgb(197, 179, 179);
+}
+
+#bold {
+  font-size: 16px;
+}
